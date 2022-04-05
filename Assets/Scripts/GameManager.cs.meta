@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6db3552892a993ec8ac963a2bd381016
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - balon: {instanceID: 0}
+  - portero1: {instanceID: 0}
+  - delantero1: {instanceID: 0}
+  - portero2: {instanceID: 0}
+  - delantero2: {instanceID: 0}
+  - porteriaJugador1: {instanceID: 0}
+  - porteriaJugador2: {instanceID: 0}
+  - golesJugador1: {instanceID: 0}
+  - golesJugador2: {instanceID: 0}
+  - hielo: {instanceID: 0}
+  - cesped: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
